@@ -109,13 +109,13 @@ for (var j = 1; j <= 35; j++) {
 }
 
 document.getElementById("img1").src= "imgv/1.png"; 
-document.getElementById("txt1").innerHTML = "📘👨✅EXITOSO MANUAL DE REPARACION DE ELECTRODOMESTICOS‼️😮✅<br>"+
+document.getElementById("txt1").innerHTML = "📘👨✅CURSO DE REPARACION DE ELECTRODOMESTICOS‼️😮✅<br>"+
 												"✌😁DI GRACIAS Y TEN AQUI EL MATERIAL👇👇<br>"+
 												"https://tutorialesonline.net/manual-de-reparacion-de-electrodomesticos";
 
    
 document.getElementById("img2").src= "imgv/2.png"; 
-document.getElementById("txt2").innerHTML = "✅📘👨EXCELENTE MANUAL DE AIRE ACONDICIONADO Y REFRIGERACION‼️😮<br>"+
+document.getElementById("txt2").innerHTML = "✅📘👨CURSO DE AIRE ACONDICIONADO Y REFRIGERACION‼️😮<br>"+
 												"✌😁DI GRACIAS Y TEN AQUI EL MATERIAL👇👇<br>"+
 												"https://tutorialesonline.net/curso-de-aire-acondicionado";
   
@@ -125,7 +125,7 @@ document.getElementById('txt3').innerHTML =	"📘👨APRENDA ELECTROTECNICA EN 1
 												"https://tutorialesonline.net/aprenda-electrotecnica-en-15-dias"; 
   
 document.getElementById("img4").src= "imgv/4.png"; 
-document.getElementById('txt4').innerHTML =	"📘👨EXITOSO CURSO PRACTICO DE ELECTRICIDAD💥💡😮 <br>"+
+document.getElementById('txt4').innerHTML =	"📘👨CURSO PRACTICO DE ELECTRICIDAD💥💡😮 <br>"+
 												"✌😁DI GRACIAS Y TEN AQUI EL MATERIAL👇👇<br>"+
 												"https://tutorialesonline.net/curso-practico-de-electricidad";  
   
@@ -151,12 +151,12 @@ document.getElementById('txt8').innerHTML = "📘👨Manual de Fallas en el Moto
 											"https://tutorialesonline.net/manual-de-fallas-en-el-motor-de-arranque-y-el-alternador"; 
   
 document.getElementById("img9").src= "imgv/9.png";
-document.getElementById('txt9').innerHTML = "📘👨EXCELENTE CURSO DE REPARACION DE MOTORES ELECTRICOS!‼️💥<br />"+
+document.getElementById('txt9').innerHTML = "📘👨CURSO DE REPARACION DE MOTORES ELECTRICOS!‼️💥<br />"+
 											"👇💯 Di GRACIAS y descarga el pdf AQUI👇✅😮<br />"+
 											"https://tutorialesonline.net/curso-de-reparacion-de-motores-electricos"; 
   
 document.getElementById("img10").src= "imgv/10.png";
-document.getElementById('txt10').innerHTML = "📘👨EXITOSO MANUAL DE ELECTRÓNICA BÁSICA️💥😮<br />"+
+document.getElementById('txt10').innerHTML = "📘👨CURSO DE ELECTRÓNICA BÁSICA️ EN PDF💥😮<br />"+
 											"👇💯 Di GRACIAS y descarga el pdf AQUI👇✅😮<br />"+
 											"https://tutorialesonline.net/manual-de-electronica-basica";
   
@@ -186,7 +186,7 @@ document.getElementById('txt15').innerHTML =	"📘👨El ABC DE LAS INSTALACIONE
 											"https://tutorialesonline.net/el-abc-de-las-instalaciones-electricas";
   
 document.getElementById("img16").src= "imgv/16.png";
-document.getElementById('txt16').innerHTML = "📘👨EXITOSO MANUAL DE REPARACIÓN TV PANTALLA LCD SHARP‼️💥😮<br />"+
+document.getElementById('txt16').innerHTML = "📘👨CURSO BASICO DE REPARACIÓN TV PANTALLA LCD SHARP‼️💥😮<br />"+
 											"👇DEJAME UN GRACIAS 🙋 Y TEN AQUI EL MATERIAL👇<br />"+
 											"https://tutorialesonline.net/manual-de-reparacion-tv-pantalla-lcd-sharp";
   
@@ -196,12 +196,12 @@ document.getElementById('txt17').innerHTML = "📘👨Exitoso manual Técnico de
 											"https://tutorialesonline.net/manual-tecnico-de-estructuras-metalicas-gratis-pdf";  
   
 document.getElementById("img18").src= "imgv/18.png";
-document.getElementById('txt18').innerHTML = "📘👨Excelente Manual de Embobinado de Motores Eléctrico‼️💥😮<br />"+
+document.getElementById('txt18').innerHTML = "📘👨Excelente Curso de Embobinado de Motores Eléctrico‼️💥😮<br />"+
 											"👇DEJAME UN GRACIAS 🙋 Y TEN AQUI EL MATERIAL👇<br />"+
 											"https://tutorialesonline.net/manual-de-embobinado-de-motores-electrico"; 
   
 document.getElementById("img19").src= "imgv/19.png";
-document.getElementById('txt19').innerHTML = "📘👨Exitoso Manual de cómo fabricar casas de madera🏠🔌👷<br />"+ 
+document.getElementById('txt19').innerHTML = "📘👨Exitoso curso de cómo fabricar casas de madera🏠🔌👷<br />"+ 
 												"👇DEJAME UN GRACIAS 🙋 Y TEN AQUI EL MATERIAL👇<br />"+
 												"https://tutorialesonline.net/manual-de-como-fabricar-casas-de-madera";
   
@@ -216,7 +216,7 @@ document.getElementById('txt21').innerHTML =  "📘👨EXITOSO MANUAL COMO HACER
 											"https://tutorialesonline.net/manual-como-hacer-portones-metalicos";
   
 document.getElementById("img22").src= "imgv/22.png";
-document.getElementById('txt22').innerHTML = "📘👨MANUAL DE REPARACION Y MANTENIMIENTO DE COMPUTADORAS PASO A PASO‼️💥😁💯<br />"+ 
+document.getElementById('txt22').innerHTML = "📘👨CURSO DE REPARACION Y MANTENIMIENTO DE COMPUTADORAS PASO A PASO‼️💥😁💯<br />"+ 
 											"👇DEJAME UN GRACIAS 🙋 Y TEN AQUI EL MATERIAL👇<br />"+
 											"https://tutorialesonline.net/manual-de-reparacion-y-mantenimiento-de-computadoras-paso-a-paso";
   
@@ -226,7 +226,7 @@ document.getElementById('txt23').innerHTML ="📘👨EXCELENTE CURSO DE REPARACI
 											"https://tutorialesonline.net/curso-de-reparacion-de-celulares-2";
 											
 document.getElementById("img24").src= "imgv/24.png";
-document.getElementById('txt24').innerHTML = "📘👨Exitoso Manual practico de electricidad residencial‼️🔥💯<br />"+
+document.getElementById('txt24').innerHTML = "📘👨CUrso practico de electricidad residencial‼️🔥💯<br />"+
 											"👇DEJAME UN GRACIAS 🙋 Y TEN AQUI EL MATERIAL👇<br />"+
 											"https://tutorialesonline.net/manual-practico-de-electricidad-residencial";	
 
@@ -256,32 +256,32 @@ document.getElementById('txt29').innerHTML ="📘👨MINICURSO DE ELECTRICIDAD D
 										"https://tutorialesonline.net/minicurso-de-electricidad-domestica";	
 											
 document.getElementById("img30").src= "imgv/30.png";
-document.getElementById('txt30').innerHTML ="📘👨Exclusivo Manual sobre el manejo del multimetro digital‼️💥💯 <br />"+
+document.getElementById('txt30').innerHTML ="📘👨Exclusivo Curso sobre el manejo del multimetro digital‼️💥💯 <br />"+
 											"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 											"https://tutorialesonline.net/manual-sobre-el-manejo-del-multimetro-digital";	
 											
 document.getElementById("img31").src= "imgv/31.png";
-document.getElementById('txt31').innerHTML ="📘👨Exclusivo Manual de encendido Electromecánico del Auto‼️💥💯😁<br />"+
+document.getElementById('txt31').innerHTML ="📘👨Exclusivo Curso de encendido Electromecánico del Auto‼️💥💯😁<br />"+
 											"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 											"https://tutorialesonline.net/manual-de-encendido-electromecanico-del-auto";
 
 document.getElementById("img32").src= "imgv/32.png";
-document.getElementById('txt32').innerHTML = 	"📘👨Exitoso Manual de Electrónica Digital en pdf‼️✌️🔧😁<br />"+
+document.getElementById('txt32').innerHTML = 	"📘👨Exitoso Curso de Electrónica Digital en pdf‼️✌️🔧😁<br />"+
 												"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 												"https://tutorialesonline.net/manual-de-electronica-digital-en-pdf";
 
 document.getElementById("img33").src= "imgv/33.png";
-document.getElementById('txt33').innerHTML = 	"📘👨👉Exclusivo Manual de Reparación de Televisor LED y LCD‼️💥💯😁<br />"+
+document.getElementById('txt33').innerHTML = 	"📘👨👉Exclusivo Curso de Reparación de Televisor LED y LCD‼️💥💯😁<br />"+
 												"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 												"https://tutorialesonline.net/manual-de-reparacion-de-televisor-led-y-lcd-2";
 											
 document.getElementById("img34").src= "imgv/34.png";
-document.getElementById('txt34').innerHTML =	"📘👨👉Exitoso Manual de aire acondicionado y calefacción gratis en pdf‼️💥💯😁<br />"+
+document.getElementById('txt34').innerHTML =	"📘👨👉Exitoso Curso de aire acondicionado y calefacción gratis en pdf‼️💥💯😁<br />"+
 												"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 												"https://tutorialesonline.net/manual-de-aire-acondicionado-y-calefaccion-gratis-en-pdf";
 											
 document.getElementById("img35").src= "imgv/35.png";
-document.getElementById('txt35').innerHTML = 	"📘👨👉Excelente Manual de instalaciones eléctricas residenciales tipo visibles‼️💥💯😁<br />"+
+document.getElementById('txt35').innerHTML = 	"📘👨👉Excelente Curso de instalaciones eléctricas residenciales tipo visibles‼️💥💯😁<br />"+
 												"👇💯 Di GRACIAS y descarga el pdf AQUI👇😮<br />"+
 												"https://tutorialesonline.net/manual-de-instalaciones-electricas-residenciales-tipo-visibles";
 	

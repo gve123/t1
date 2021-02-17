@@ -30,7 +30,7 @@ document.getElementById("a4").innerHTML = "(g4) Reparaciones Caseras";
 else if (n==5)
 {
 document.getElementById("imgr5").src="img/g5.png";
-document.getElementById("a5").href = "https://www.facebook.com/groups/2485289741730986/";
+document.getElementById("a5").href = "https://www.facebook.com/groups/735997150368611/";
 document.getElementById("a5").innerHTML = "(g5) Electricidad Basica";
 }
 

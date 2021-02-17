@@ -9,7 +9,7 @@ for (var k = 1 ; k <= 35; k++) {
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
     '<div class="imagen"><img id="img'+k+'" alt="" width="100%" onClick="copy('+k+')"></div>'+
     '<div class="texto" id="txt'+k+'" ></div>'+
-    '<div class="cbox"><input class="unpresed" id="checkbox'+n+'#'+k+'" type="checkbox" onClick="clickboton('+k+')"></div>';
+    '<div class="cbox"><input class="unpresed" id="tcheckbox'+n+'#'+k+'" type="checkbox" onClick="clickboton('+k+')"></div>';
 
  }   
   
@@ -23,7 +23,7 @@ function clickboton(i) {
   
   
   
-  if (document.getElementById("tcheckboxt"+n+"#"+i).checked == true)
+  if (document.getElementById("tcheckbox"+n+"#"+i).checked == true)
   {
     var hoy = new Date();
   	var dia = hoy.getDate();

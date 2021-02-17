@@ -149,7 +149,7 @@ document.getElementById("a21").innerHTML = "(g21) Aprenda Electricidad Básica G
 else if (n==22)
 {
 document.getElementById("imgr22").src="img/g22.png";
-document.getElementById("a22").href = "https://www.facebook.com/groups/MONGUIBOYRDELECTRONICA/";
+document.getElementById("a22").href = "https://www.facebook.com/groups/2605786813023073";
 document.getElementById("a22").innerHTML = "(g22) EL MUNDO DE LA ELECTRÓNICA";
 }
 

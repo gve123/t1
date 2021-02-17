@@ -18,19 +18,19 @@ for (var k = 1 ; k <= 35; k++) {
 
 function clickboton(i) { 
     //var cbox = "checkbox"+i;      
-    var checkbox = document.getElementById("checkbox"+n+"#"+i);
-    localStorage.setItem("checkbox"+n+"#"+i, checkbox.checked);  
+    var checkbox = document.getElementById("tcheckbox"+n+"#"+i);
+    localStorage.setItem("tcheckbox"+n+"#"+i, checkbox.checked);  
   
   
   
-  if (document.getElementById("checkbox"+n+"#"+i).checked == true)
+  if (document.getElementById("tcheckboxt"+n+"#"+i).checked == true)
   {
     var hoy = new Date();
   	var dia = hoy.getDate();
   	var mes = hoy.getMonth() + 1;
     
-    localStorage.setItem("diachecked"+n+"#"+i,dia);
-  	localStorage.setItem("meschecked"+n+"#"+i,mes);
+    localStorage.setItem("tdiachecked"+n+"#"+i,dia);
+  	localStorage.setItem("tmeschecked"+n+"#"+i,mes);
     
   	//console.log("diacheckedu"+i+dia);
   }	
@@ -50,17 +50,17 @@ var mes = hoy.getMonth() + 1;
   
 for (var j = 1; j <= 35; j++) {
   
-	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
+	var checked = JSON.parse(localStorage.getItem("tcheckbox"+n+"#"+j));
     if (checked == true)
     {
-    	document.getElementById("checkbox"+n+"#"+j).checked = true;
+    	document.getElementById("tcheckbox"+n+"#"+j).checked = true;
 
       
   	}
   	else
     {
     
-    	document.getElementById("checkbox"+n+"#"+j).checked = false;
+    	document.getElementById("tcheckbox"+n+"#"+j).checked = false;
     } 
   
   
@@ -69,8 +69,8 @@ for (var j = 1; j <= 35; j++) {
           
 
           
-        var diachecked = localStorage.getItem('diachecked'+n+'#'+j);
-        var meschecked = localStorage.getItem('meschecked'+n+'#'+j);
+        var diachecked = localStorage.getItem('tdiachecked'+n+'#'+j);
+        var meschecked = localStorage.getItem('tmeschecked'+n+'#'+j);
           
         /*  
     	if (meschecked == mes)
@@ -96,7 +96,7 @@ for (var j = 1; j <= 35; j++) {
 	*/
 	if (Math.abs(meschecked-mes)>1)	
         {
-        	localStorage.setItem("checkbox"+n+"#"+j,false);	
+        	localStorage.setItem("tcheckbox"+n+"#"+j,false);	
         
         }  
       

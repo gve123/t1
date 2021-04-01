@@ -286,6 +286,15 @@ document.getElementById('txt35').innerHTML = 	"📘👨👉Excelente Manual de i
 												"https://tutorialesonline.net/manual-de-instalaciones-electricas-residenciales-tipo-visibles";
 	
 												
+document.getElementById("img36").src= "imgv/36.png";
+document.getElementById('txt36').innerHTML = 	"📘👨👉Excelente curso de reparación de electrodomésticos‼️💥💯😁<br />"+
+	"Este curso te permite Iniciar desde Cero y Conseguir en solo un mes conocimientos en Reparación de Electrodomésticos.<br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/T46806184J"
+
+
+
+
 
 												
 									

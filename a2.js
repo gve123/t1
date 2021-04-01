@@ -291,6 +291,41 @@ document.getElementById('txt36').innerHTML = 	"📘👨👉Excelente curso de re
 	"Este curso te permite Iniciar desde Cero y Conseguir en solo un mes conocimientos en Reparación de Electrodomésticos.<br />"+
 												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
 	"https://go.hotmart.com/T46806184J"
+
+
+document.getElementById("img37").src= "imgv/37.png";
+document.getElementById('txt37').innerHTML = 	"📘👨👉Excelente Curso sobre instalación de Casas Solares‼️💥💯😁<br />"+
+	"El momento es Hoy! Estamos en la era de las energías renovables que no contaminan.<br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/E46824810T?dp=1"
+
+
+
+document.getElementById("img38").src= "imgv/38.png";
+document.getElementById('txt38').innerHTML = 	"📘👨👉Excelente Curso de mecánica | Más de 30 manuales pdf‼️💥💯😁<br />"+
+	"Material muy completo, ideal para aprender mecánica, electricidad y electrónica automotriz <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/I47344893S?dp=1"
+
+
+document.getElementById("img39").src= "imgv/39.png";
+document.getElementById('txt39').innerHTML = 	"📘👨👉CURSO completo Técnico en Reparación de TV de plasma y LCD‼️💥💯😁<br />"+
+	"En esta capacitación obtendrás las herramientas básicas que te permitirán reparar televisores LCD y de plasma <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/I49580737T?dp=1"
+
+
+
+document.getElementById("img40").src= "imgv/40.png";
+document.getElementById('txt40').innerHTML = 	"📘👨👉CURSO completo Técnico en Reparación de TV de plasma y LCD‼️💥💯😁<br />"+
+	"En esta capacitación obtendrás las herramientas básicas que te permitirán reparar televisores LCD y de plasma <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/I49580737T?dp=1"
+
+
+
+
+
 												
 									
 function copy(i) {	

@@ -3,7 +3,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 35; k++) {
+for (var k = 1 ; k <= 36; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -48,7 +48,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 35; j++) {
+for (var j = 1; j <= 36; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("tcheckbox"+n+"#"+j));
     if (checked == true)

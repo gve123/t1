@@ -3,7 +3,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 36; k++) {
+for (var k = 1 ; k <= 48; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -48,7 +48,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 36; j++) {
+for (var j = 1; j <= 48; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("tcheckbox"+n+"#"+j));
     if (checked == true)
@@ -311,20 +311,85 @@ document.getElementById('txt38').innerHTML = 	"📘👨👉Excelente Curso de me
 document.getElementById("img39").src= "imgv/39.png";
 document.getElementById('txt39').innerHTML = 	"📘👨👉CURSO completo Técnico en Reparación de TV de plasma y LCD‼️💥💯😁<br />"+
 	"En esta capacitación obtendrás las herramientas básicas que te permitirán reparar televisores LCD y de plasma <br />"+
-												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+												"👇💯 Di OK si estas activo👇😮<br />"+
 	"https://go.hotmart.com/I49580737T?dp=1"
 
 
 
 document.getElementById("img40").src= "imgv/40.png";
-document.getElementById('txt40').innerHTML = 	"📘👨👉CURSO completo Técnico en Reparación de TV de plasma y LCD‼️💥💯😁<br />"+
-	"En esta capacitación obtendrás las herramientas básicas que te permitirán reparar televisores LCD y de plasma <br />"+
+document.getElementById('txt40').innerHTML = 	"📘👨👉Curso ONLINE de Electricidad Domiciliaria‼️💥💯😁<br />"+
+	"El objetivo del curso es formar técnicos capaces de trabajar en la reparación, diseño e implementación según la normativa vigente de instalaciones eléctricas de mediana y alta complejidad en domicilios y comercios <br />"+
 												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
-	"https://go.hotmart.com/I49580737T?dp=1"
+	"https://go.hotmart.com/I46809547K?dp=1"
+
+
+
+document.getElementById("img41").src= "imgv/41.png";
+document.getElementById('txt41').innerHTML = 	"📘👨👉EL CURSO MÁS COMPLETO DE INSTALACION Y REPARACION DE AIRES ACONDICIONADOS‼️💥💯😁<br />"+
+	"El curso ha sido diseñado para quienes no tienen conocimientos específicos sobre el tema, y deseen iniciarse en la actividad <br />"+
+												"👇💯 Di OK si estas activo👇😮<br />"+
+	"https://go.hotmart.com/Y46759328L?dp=1"
+
+
+
+document.getElementById("img42").src= "imgv/42.png";
+document.getElementById('txt42').innerHTML = 	"📘👨👉EXCELENTE CURSO DE REPARACIÓN DE CELULARES‼️💥💯😁<br />"+
+	"Descubre como reparar celulares es más fácil de lo que imaginas cuando te lo explica un profesional. Crea UN RENTABLE NEGOCIO ¡ADELANTA A TU COMPETENCIA! <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/K46730650W?dp=1"
 
 
 
 
+
+document.getElementById("img43").src= "imgv/43.png";
+document.getElementById('txt43').innerHTML = 	"📘👨👉CURSO de Técnico Auxiliar en Reparador de PC‼️💥💯😁<br />"+
+	"Este curso te permite iniciar desde cero y conseguir en poco tiempo conocimientos avanzados en Técnico Auxiliar en Reparador de PC. <br />"+
+												"👇💯 Di OK si estas activo👇😮<br />"+
+	"https://go.hotmart.com/U46755075E"
+
+
+
+
+document.getElementById("img44").src= "imgv/44.png";
+document.getElementById('txt44').innerHTML = 	"📘👨👉EXCELENTE CURSO Técnico Auxiliar en Electrónica‼️💥💯😁<br />"+
+	"Este curso te permite Iniciar desde cero y conseguir en poco tiempo conocimientos avanzados en Técnico Auxiliar en Electrónica <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/S46832891M?dp=1"
+
+
+
+
+document.getElementById("img45").src= "imgv/45.png";
+document.getElementById('txt45').innerHTML = 	"📘👨👉CURSO de Técnico Auxiliar en Mecánica Automotriz‼️💥💯😁<br />"+
+	"Este curso te permite iniciar desde cero y conseguir en poco tiempo conocimientos avanzados en Técnico Auxiliar en Mecánica Automotriz. <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/U48478685L"
+
+
+
+
+document.getElementById("img46").src= "imgv/46.png";
+document.getElementById('txt46').innerHTML = 	"📘👨👉Master Class Experto en Lavadoras 1‼️💥💯😁<br />"+
+	"Te enseñaremos muy fácilmente sobre el mantenimiento y reparación de lavadoras de las marcas Samsung, LG, Electrolux, Mabe, Whirlpool, Centrales, Easy, General Electric. <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://go.hotmart.com/I48483100E"
+
+
+
+document.getElementById("img47").src= "imgv/47.png";
+document.getElementById('txt47').innerHTML = 	"📘👨👉CURSO El ABC de la Reparación de iPhone‼️💥💯😁<br />"+
+	"Aprende a reparar iPhone más allá de solo cambiar pantallas, baterías y algunos periféricos para que nunca te falten clientes! <br />"+
+												"👇💯 Di OK si estas activo👇😮<br />"+
+	"https://go.hotmart.com/K48513010B?dp=1"
+
+
+
+document.getElementById("img48").src= "imgv/48.png";
+document.getElementById('txt48').innerHTML = 	"📘👨👉Capacitación en Electricidad Automotriz‼️💥💯😁<br />"+
+	"Una vez culminado el curso, se realiza la emisión del certificado de estudios. El mismo es avalado mediante personería jurídica por la Fundación Instituto Superior de Enseñanza.! <br />"+
+												"👇💯 Di GRACIAS si estas activo👇😮<br />"+
+	"https://www.estudiandoen.casa/capacitacion_en_electricidad_automotriz.html?ref=H48513222C"
 
 												
 									
